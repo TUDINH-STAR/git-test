@@ -1,2 +1,2 @@
-# git-test
-How to user github ?
+# my-first-project
+My first project on github
